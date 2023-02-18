@@ -1,0 +1,7 @@
+body {
+    font-family: salesforce-sans, 'Helvetica Neue', helvetica, arial, sans-serif;
+    min-width: 320px;
+    min-height: 100vh;
+    padding-top: 50px;
+    background: 0 0;
+}
